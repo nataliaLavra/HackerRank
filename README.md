@@ -12,7 +12,7 @@ Desafios solucionados, em Python, no portal Hacker Rank
 - https://www.hackerrank.com/challenges/python-lists/problem - listsPy.py
 - https://www.hackerrank.com/challenges/finding-the-percentage/problem - findingPercentage.py 
 - https://www.hackerrank.com/challenges/nested-list/problem - nestedList.py
-- https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem - maximumNum.py
+- https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem - secondMaxNum.py
 - https://www.hackerrank.com/challenges/list-comprehensions/problem - listComprehensions.py
 - https://www.hackerrank.com/challenges/python-quest-1/problem - quest1.py
 - https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem - integers.py
